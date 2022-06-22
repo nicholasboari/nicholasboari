@@ -1,4 +1,4 @@
-### Oi, eu sou o Nicholas!
+### Oi
 
 - 🌱 I’m currently learning Java and JavaScript
 
